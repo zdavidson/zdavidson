@@ -8,16 +8,7 @@ A personal project I'm currently working on is [Feedback](https://feedback-liart
 A couple of past projects include: [Audiophile](https://audiophile-seven.vercel.app/), and [PlanetHub](https://planet-hub.vercel.app/).
 
 ## Tech
-Most recently I've been working with:
-- TypeScript
-- Next.js
-- GraphQL
-- React Query
-- Material UI
-- Supabase
-- Relay
-
-...but I ***love*** learning new tech!
+Most recently I've been working with: TypeScript, Next.js, GraphQL, React Query, Material UI, Supabase, and Relay to name a few...but I ***love*** learning new tech!
 
 ## Contact
 
