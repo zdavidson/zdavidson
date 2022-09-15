@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm (Zoê)[https://www.zoedavidson.ca/], a Washington, DC based software engineer.
+
+I'm currently working on (Feedback)[https://feedback-liart.vercel.app/]. (This is the repo)[https://github.com/zdavidson/feedback], if you'd like to checkout my code.
+
+Feel free to reach out to me at: zoe.a.h.davidson@gmail.com
+
 <!--
 **zdavidson/zdavidson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
