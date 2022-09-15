@@ -1,4 +1,4 @@
-:wave:&#127998; Hi there! I'm [Zoë](https://www.zoedavidson.ca/), a Washington, DC based software engineer. 
+Hi there! I'm [Zoë](https://www.zoedavidson.ca/), a Washington, DC based software engineer. 
 
 ## Projects
 A personal project I'm currently working on is [Feedback](https://feedback-liart.vercel.app/). It's a fullstack app task management app, a bit like Jira or AirTable. If you'd like to checkout my code [here's a link to the repo](https://github.com/zdavidson/feedback).  
