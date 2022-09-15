@@ -1,4 +1,4 @@
-### Hi there :wave:
+### Hi there :wave:&#127998;
 
 I'm [Zoë](https://www.zoedavidson.ca/), a Washington, DC based software engineer.
 
