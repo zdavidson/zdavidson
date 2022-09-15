@@ -3,10 +3,9 @@
 ## Projects
 A personal project I'm currently working on is [Feedback](https://feedback-liart.vercel.app/). It's a fullstack app task management app, a bit like Jira or AirTable. If you'd like to checkout my code [here's a link to the repo](https://github.com/zdavidson/feedback).  
 
-A couple of past projects include: [Audiophile](https://audiophile-seven.vercel.app/), and [PlanetHub](https://planet-hub.vercel.app/).
+Some of my past projects include: [Audiophile](https://audiophile-seven.vercel.app/), and [PlanetHub](https://planet-hub.vercel.app/).
 
-## Tech
-Most recently I've been working with: TypeScript, Next.js, GraphQL, React Query, Material UI, Supabase, and Relay to name a few...but I ***love*** learning new tech!
+Most recently I've been working with: TypeScript, Next.js, GraphQL, React Query, Material UI, Supabase, and Relay to name a few...but I ***love*** learning new pieces of tech!
 
 ## Contact
 
