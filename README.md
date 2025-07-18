@@ -1,7 +1,7 @@
-**Hi there!** I'm [Zoë](https://www.zoedavidson.ca/), a Washington, DC–based software engineer focused on building user-centered web applications. In my spare time, I teach aspiring engineers how to code on [**YouTube**](https://www.youtube.com/@DavidsonProgrammingAcademy).
+**Hi there!** I'm [**Zoë**](https://www.zoedavidson.ca/), a Washington, DC–based software engineer focused on building user-centered web applications. In my spare time, I teach aspiring engineers how to code on [**YouTube**](https://www.youtube.com/@DavidsonProgrammingAcademy).
 
 
-## 🚀 Projects  
+## Projects  
 
 A few of the projects I've worked on include:
 
@@ -11,7 +11,7 @@ A few of the projects I've worked on include:
 
 If you want to see more, check out my [YouTube channel](https://www.youtube.com/@DavidsonProgrammingAcademy), where I create step-by-step tutorials - including full walkthroughs of projects like the Amazon clone - to help aspiring developers build real-world skills.
 
-## 📬 Contact  
+## Contact  
 
 If you'd like to connect, feel free to reach out to me at: zoe.a.h.davidson@gmail.com
 
