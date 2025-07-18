@@ -12,10 +12,6 @@ Here are a few things I’ve built and shipped:
 
 - 🎧 [**Audiophile**](https://audiophile-seven.vercel.app/): A fully responsive e-commerce site built with Next.js and TypeScript.
 
-- 🌍 [**PlanetHub**](https://planet-hub.vercel.app/): An interactive space exploration app showcasing data-driven UI.
-
-- 🗂️ [**Feedback**](https://feedback-liart.vercel.app/): A Jira-inspired task management tool built for speed and clarity.
-
 ➡️ See more at [zoedavidson.ca](https://www.zoedavidson.ca/) and [Davidson Programming Academy](https://youtube.com/@davidsonprogrammingacademy)
 
 ---
