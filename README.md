@@ -1,25 +1,57 @@
-**Hi there!** I'm [Zoë](https://www.zoedavidson.ca/), a Washington, DC based software engineer. 
+# Hi there! 👋 I'm [Zoë Davidson](https://www.zoedavidson.ca/)  
+A Washington, DC–based **Senior Software Engineer** focused on building accessible, performant, and user-centered web applications.
 
-## Projects
-Some of my past projects include: [Audiophile](https://audiophile-seven.vercel.app/), and [PlanetHub](https://planet-hub.vercel.app/).
+---
 
-Most recently I've been working with: TypeScript, Next.js, GraphQL, React Query, Material UI, Supabase, and Relay to name a few...but I ***love*** learning new pieces of tech!
+## 🚀 Projects  
 
-## Contact
+Here are a few things I’ve built and shipped:
 
-If you'd like to connect, feel free to reach out to me at: zoe.a.h.davidson@gmail.com
+- 🛒 [**Amazon Clone**](https://amazon-tutorial.vercel.app/): A polished e-commerce clone with dynamic cart and checkout flow.  
+  🎥 [Video Tutorial](https://www.youtube.com/@DavidsonProgrammingAcademy): I walk through how I built this on YouTube!
 
-<!--
-**zdavidson/zdavidson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎧 [**Audiophile**](https://audiophile-seven.vercel.app/): A fully responsive e-commerce site built with Next.js and TypeScript.
 
-Here are some ideas to get you started:
+- 🌍 [**PlanetHub**](https://planet-hub.vercel.app/): An interactive space exploration app showcasing data-driven UI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🗂️ [**Feedback**](https://feedback-liart.vercel.app/): A Jira-inspired task management tool built for speed and clarity.
+
+➡️ See more at [zoedavidson.ca](https://www.zoedavidson.ca/) and [Davidson Programming Academy](https://youtube.com/@davidsonprogrammingacademy)
+
+---
+
+## 🌍 Work That Reaches Millions  
+
+As a **core contributor** to [IKEA’s Home Design platform](https://www.ikea.com/us/en/home-design/), I’ve helped deliver **first-to-market**, photorealistic, mixed-reality experiences to **millions of users** across over a dozen markets and languages.
+
+At **Geomagical Labs**, I’ve led key web feature development and global market launches—driving **thousands of new users** each year through thoughtful, scalable front-end engineering.
+
+---
+
+## 🛠️ Tech I’ve Been Using Lately
+
+- **Languages & Frameworks:** TypeScript, React, Next.js, Node.js  
+- **Data & APIs:** GraphQL, Supabase, Relay, Apollo  
+- **Styling & UI:** Material UI, Tailwind CSS, CSS-in-JS  
+- **Testing & Tooling:** Jest, Storybook, React Query  
+
+I'm always learning and love diving into new stacks, tools, or tough problems—especially when it leads to better user experiences.
+
+---
+
+## 🧑‍🏫 Beyond Code  
+
+Before tech, I was a university professor. That passion for education continues through the [**Davidson Programming Academy**](https://www.zoedavidson.ca/)—an online bootcamp and YouTube channel where I teach aspiring front-end developers how to get started in the industry.
+
+In my free time, I enjoy making films — a creative outlet that complements my love for coding and problem-solving.
+
+---
+
+## 📬 Get in Touch  
+
+If you’d like to connect, collaborate, or just say hi:  
+📧 **zoe.a.h.davidson@gmail.com**
+
+---
+
+Thanks for stopping by!
